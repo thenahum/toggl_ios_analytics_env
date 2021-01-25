@@ -9,8 +9,8 @@ An set of functions for use with Pythonista for iOS to access toggl public API (
 
 ## Installation
 1. Download repository as a zip file
-2. Uncompress zip file
-3. Copy folder into Pythonista folder in your iCloud account. 
+2. Uncompress zip file and copy folder into Pythonista folder in your iCloud account. 
+3. Update credentials.py with your API Token
 4. viola! Now you can use the repository to build out your own analysis. 
 
 For a more detailed information on how to connect this library with Shortcuts and tools like Charty, visit [The Code Beast](https://www.thecodebeast.com/timecontrolstation/).

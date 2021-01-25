@@ -13,13 +13,13 @@ An set of functions for use with Pythonista for iOS to access toggl public API (
 3. Copy folder into Pythonista folder in your iCloud account. 
 4. viola! Now you can use the repository to build out your own analysis. 
 
-For a more detailed information on how to connect this library with Shortcuts and tools like Charty, visit [The Code Beast](https:://www.thecodebeast.com/timecontrolstation).
+For a more detailed information on how to connect this library with Shortcuts and tools like Charty, visit [The Code Beast](https://www.thecodebeast.com/timecontrolstation/).
 
 ## Shortcuts Links
 
 ### Search Entries
-[iCloud URL](https://www.icloud.com/shortcuts/2f3cb9d3d58f4cbeab3b348af4c8d2f4) - For more info on how this shortcut works and how to install visit [The Code Beast](https:://www.thecodebeast.com/timecontrolstation).
+[iCloud URL](https://www.icloud.com/shortcuts/2f3cb9d3d58f4cbeab3b348af4c8d2f4) - For more info on how this shortcut works and how to install visit [The Code Beast](https://www.thecodebeast.com/timecontrolstation/).
 
 
 ### Charty Time Last 3 Months
-[iCloud URL](https://www.icloud.com/shortcuts/2f3cb9d3d58f4cbeab3b348af4c8d2f4) - For more info on how this shortcut works and how to install visit [The Code Beast](https:://www.thecodebeast.com/timecontrolstation).
+[iCloud URL](https://www.icloud.com/shortcuts/2f3cb9d3d58f4cbeab3b348af4c8d2f4) - For more info on how this shortcut works and how to install visit [The Code Beast](https://www.thecodebeast.com/timecontrolstation/).

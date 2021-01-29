@@ -15,7 +15,7 @@ An set of functions for use with Pythonista for iOS to access toggl public API (
 
 ## Shortcuts Links
 
-Below are the links for shortcuts using this library. Documentation for these will be available over at [codebeast](https://www.icloud.com/shortcuts/4215b9aa5d74401fbe9d5264bd39787f) soon.
+Below are the links for shortcuts using this library. Documentation for these will be available over at [codebeast](https://thecodebeast.com) soon.
 
 ### Search Entries
 [iCloud URL](https://www.icloud.com/shortcuts/30f5faf127b84855b5cc8b65e4e424a8)
